@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),('my github','https://github.com/peipei9728'),('my vimeo','https://vimeo.com/user32614963'),
-         ('You can modify those links in your config file', '#'),)
+         ('You can modify those links in your config file', '#'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
