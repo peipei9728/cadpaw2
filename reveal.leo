@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -408,7 +408,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151118224358.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="123.20151118224358.1"><vh>@clean simplest8.html</vh>
 <v t="123.20151118224358.2"><vh>檔案說明</vh></v>
 <v t="123.20151118224358.3" a="E"><vh>html 標註</vh>
 <v t="123.20151118224358.4" a="E"><vh>body 標註</vh>
@@ -424,7 +424,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109141346.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="123.20160109141346.1"><vh>@clean simplest11.html</vh>
 <v t="123.20160109141346.2"><vh>檔案說明</vh></v>
 <v t="123.20160109141346.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109141346.4" a="E"><vh>body 標註</vh>
